@@ -16,7 +16,7 @@
 
 // Based on original works by Namco, GCC, and Midway.
 // Research by Jamey Pittman and Bart Grantham
-// Developed by Shaun Williams
+// Developed by Shaun Williams, Mason Borda
 
 // ==========================================================================
 
