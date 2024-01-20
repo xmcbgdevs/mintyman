@@ -17,7 +17,7 @@
     "url": "git+https://github.com/xmcbgdevs/mintyman.git"
   },
   "keywords": [
-    "pacman"
+    "mintyman"
   ],
   "author": "Molly Beach Katie Kirby Jason Cunningham Mark Watson Will Fisher",
   "license": "SEE LICENSE IN LICENSE",
@@ -31,5 +31,8 @@
   "devDependencies": {
     "eslint": "8.40.0",
     "eslint-config-next": "13.4.2"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }
