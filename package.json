@@ -1,7 +1,7 @@
 {
-  "name": "pacman",
+  "name": "@xmcbgdevs/mintyman",
   "version": "1.0.0",
-  "description": "Everyone's favorite arcade game",
+  "description": "Minty Man Game",
   "main": "pacman.js",
   "directories": {
     "doc": "doc"
@@ -14,17 +14,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/masonicGIT/pacman.git"
+    "url": "git+https://github.com/xmcbgdevs/mintyman.git"
   },
   "keywords": [
     "pacman"
   ],
-  "author": "Shaun Williams, Mason Borda",
+  "author": "Molly Beach Katie Kirby Jason Cunningham Mark Watson Will Fisher",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
-    "url": "https://github.com/masonicGIT/pacman/issues"
+    "url": "https://github.com/xmcbgdevs/mintyman.git/issues"
   },
-  "homepage": "https://github.com/masonicGIT/pacman#readme",
+  "homepage": "https://github.com/xmcbgdevs/mintyman#readme",
   "dependencies": {
     "node": "^20.1.0"
   },
